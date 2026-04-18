@@ -1,0 +1,22 @@
+# Stakeholder Register: CMMC Readiness Project
+
+This document identifies the individuals and groups involved in or impacted by the CMMC Level 2 assessment.
+
+## 1. Internal Stakeholders
+| Name/Role | Department | Interest | Influence | Expectations |
+| :--- | :--- | :--- | :--- | :--- |
+| **John Doe (CIO)** | Executive | High | High | Ensure certification to maintain DoD contracts. |
+| **IT Manager** | IT Operations | High | High | Ensure technical controls are feasible and implemented. |
+| **S6 Help Desk OIC** | IT Support | Medium | Medium | Understand new security protocols for end-user support. |
+| **BDE S6 Civilians** | Compliance/IT | High | Medium | Coordinate technical documentation and system security. |
+| **Employees** | General Staff | Low | Low | Minimal disruption to daily workflow during upgrades. |
+
+## 2. External Stakeholders
+| Name/Role | Category | Interest | Influence | Expectations |
+| :--- | :--- | :--- | :--- | :--- |
+| **C3PAO Assessor** | Regulator | High | High | Verify 100% compliance with NIST 800-171. |
+| **Department of Defense** | Customer | High | High | Evidence of a secure supply chain. |
+| **Third-Party Vendors** | Partners | Medium | Low | Maintain secure connections to our network. |
+
+---
+**Note:** Influence and Interest levels help determine the engagement strategy (e.g., "Manage Closely" vs. "Keep Informed").
